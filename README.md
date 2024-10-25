@@ -22,10 +22,9 @@ A **15-puzzle game** built with modern design, animations, and sound effects. Th
 </p>
 
 ## 🛠️ Technologies Used
-- **Kotlin** + **Jetpack Compose**  
 - **Animations** for smooth interactions  
 - **MediaPlayer** for audio management  
-- **SharedPreferences** for data storage  
+- **SharedPreferences** to save leaderboard and game
 - **Navigation Components** for seamless user flow  
 
 ## 📥 Installation
