@@ -16,8 +16,8 @@ A **15-puzzle game** built with modern design, animations, and sound effects. Th
   <img src="./Screenshot_20241025_154713_PuzzleHack.jpg" width="300"/>
   <img src="./Screenshot_20241025_154718_PuzzleHack.jpg" width="300"/>
   <img src="./Screenshot_20241025_154957_PuzzleHack.jpg" width="300"/>
-  <img src="./Screenshot_20241025_154721_PuzzleHack.jpg" width="300"/>
-  <img src="./Screenshot_20241025_154722_PuzzleHack.jpg" width="300"/>
+  <img src="./Screenshot_20241025_155004_PuzzleHack.jpg" width="300"/>
+  <img src="./Screenshot_20241025_155011_PuzzleHack.jpg" width="300"/>
   <img src="./Screenshot_20241025_154723_PuzzleHack.jpg" width="300"/>
 </p>
 
