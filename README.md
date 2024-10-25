@@ -12,21 +12,23 @@ A **15-puzzle game** built with modern design, animations, and sound effects. Th
 - **Day/Night theme** support  
 
 ## 📸 Screenshots
-![Screenshot 1](./Screenshot_20241025_154713_PuzzleHack.jpg)  
-![Screenshot 2](./Screenshot_20241025_154718_PuzzleHack.jpg)  
-![Screenshot 3](./Screenshot_20241025_154720_PuzzleHack.jpg)  
-![Screenshot 4](./Screenshot_20241025_154721_PuzzleHack.jpg)  
-![Screenshot 5](./Screenshot_20241025_154722_PuzzleHack.jpg)  
-![Screenshot 6](./Screenshot_20241025_154723_PuzzleHack.jpg)  
+<p align="center">
+  <img src="./Screenshot_20241025_154713_PuzzleHack.jpg" width="300"/>
+  <img src="./Screenshot_20241025_154718_PuzzleHack.jpg" width="300"/>
+  <img src="./Screenshot_20241025_154720_PuzzleHack.jpg" width="300"/>
+  <img src="./Screenshot_20241025_154721_PuzzleHack.jpg" width="300"/>
+  <img src="./Screenshot_20241025_154722_PuzzleHack.jpg" width="300"/>
+  <img src="./Screenshot_20241025_154723_PuzzleHack.jpg" width="300"/>
+</p>
 
-## 🛠️ Technologies Used 
+## 🛠️ Technologies Used
+- **Kotlin** + **Jetpack Compose**  
 - **Animations** for smooth interactions  
 - **MediaPlayer** for audio management  
 - **SharedPreferences** for data storage  
 - **Navigation Components** for seamless user flow  
 
 ## 📥 Installation
-
-1. Download apk file
- ```bash
-     https://github.com/BoburjonMurodov/PuzzleHack/blob/main/app-debug.apk
+1. Download and install apk file
+   ```bash
+   https://github.com/BoburjonMurodov/PuzzleHack/blob/main/app-debug.apk
