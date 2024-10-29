@@ -27,7 +27,6 @@ A **15-puzzle game** built with modern design, animations, and sound effects. Th
 - **SharedPreferences** to save leaderboard and game
 - **Navigation Components** for seamless user flow  
 
-## 📥 Installation
-1. Download and install apk file
-   ```bash
-   https://github.com/BoburjonMurodov/PuzzleHack/blob/main/app-debug.apk
+
+   ## 📦 APK File
+You can download the APK file [here](https://github.com/BoburjonMurodov/PuzzleHack/releases/download/release/app-release.apk).
